@@ -34,8 +34,4 @@ Digite o título da tarefa: Fazer exercícios
 Digite a descrição da tarefa: Completar o conjunto de exercícios de Java
 Digite a data de criação da tarefa: 2023-07-10
 
-Tarefa adicionada com sucesso!
-
-## Autores
-
-- Paulo Henrique de Souza Ribeiro
+Tarefa adicionada com sucesso
