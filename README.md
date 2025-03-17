@@ -1,37 +1,22 @@
-# Gerenciador de Tarefas em Java
+🚀 Gerenciador de Tarefas em Java - Desafio Decola 2025
+Bem-vindo ao Gerenciador de Tarefas em Java, um projeto desenvolvido como parte do desafio do Decola 2025. Este programa permite gerenciar tarefas de forma simples e eficiente, com funcionalidades básicas como adicionar, listar e marcar tarefas como concluídas.
 
-Este é um projeto simples de um Gerenciador de Tarefas em Java, desenvolvido como parte do aprendizado da linguagem.
+🎯 Objetivo
+O objetivo deste projeto é demonstrar habilidades em Java e programação orientada a objetos, aplicando conceitos como classes, métodos, listas e interação com o usuário por meio de um menu interativo.
 
-## Descrição
+✨ Funcionalidades
+✅ Adicionar Tarefas:
+Insira o título, descrição e data de criação para adicionar uma nova tarefa.
 
-O Gerenciador de Tarefas permite que os usuários adicionem, listem e marquem tarefas como concluídas por meio de um menu interativo.
+📜 Listar Tarefas:
+Visualize todas as tarefas cadastradas, com detalhes como título, descrição, data de criação e status (concluída ou pendente).
 
-## Funcionalidades
+✔️ Marcar Tarefas como Concluídas:
+Atualize o status de uma tarefa para "concluída".
 
-- Adicionar tarefas com título, descrição e data de criação.
-- Listar todas as tarefas existentes.
-- Marcar tarefas como concluídas.
+🛠️ Tecnologias Utilizadas
+Java: Linguagem de programação principal.
 
-## Como Usar
+Git e GitHub: Para versionamento e hospedagem do código.
 
-1. Compile os arquivos do projeto usando um ambiente de desenvolvimento Java ou o terminal.
-2. Execute a classe `Main` para iniciar o programa.
-3. Siga as opções do menu para interagir com o Gerenciador de Tarefas.
-
-## Exemplo de Uso
-
------ Menu -----
-
-Adicionar Tarefa
-
-Listar Tarefas
-Marcar Tarefa como Concluída
-Sair
-
-Escolha uma opção: 1
-
-Digite o título da tarefa: Fazer exercícios
-Digite a descrição da tarefa: Completar o conjunto de exercícios de Java
-Digite a data de criação da tarefa: 2023-07-10
-
-Tarefa adicionada com sucesso
+Markdown: Para documentação do projeto.
